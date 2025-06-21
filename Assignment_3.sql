@@ -1,5 +1,5 @@
 
-/*Write a SQL query to find the names of employees whose first names start with the letter 'J'.
+Write a SQL query to find the names of employees whose first names start with the letter 'J'.
 
 Write a SQL query to find the names of employees whose last names end with the letter 'n'.
 
@@ -7,7 +7,7 @@ Write a SQL query to find the email addresses of employees that contain the word
 
 Write a SQL query to find the names of employees whose first names have exactly 5 characters.
 
-Write a SQL query to find the names of employees whose last names contain the letter 'a' as the second character.*/
+Write a SQL query to find the names of employees whose last names contain the letter 'a' as the second character.
 
 
 CREATE TABLE Employees_infos (
