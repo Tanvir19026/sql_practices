@@ -1,4 +1,24 @@
 
+
+
+/*
+
+Write a query to calculate the total sales amount for each department in the EmployeeSales table.
+
+Write a query to count the number of sales made by each employee.
+
+Write a query to calculate the average sale amount for each department.
+
+Write a query to find the total sales amount for each employee, but only include employees who have made more than one sale.
+
+Write a query to find the total sales for each month in 2023.
+
+
+
+
+
+
+*/
 --Step 1) Create Table
 CREATE TABLE EmployeeSales (
     SaleID INT PRIMARY KEY,
